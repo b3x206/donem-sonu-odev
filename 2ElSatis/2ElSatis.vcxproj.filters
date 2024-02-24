@@ -18,5 +18,27 @@
     <ClCompile Include="src\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\konsol\pencere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\konsol\arayuz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\konsol\arayuz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\konsol\pencere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\konsol\str_araclari.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="BeniOku.md" />
+    <Text Include="Kullanici.txt" />
+    <Text Include="Urunler.txt" />
   </ItemGroup>
 </Project>
